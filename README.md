@@ -13,9 +13,9 @@ A python module that lets you play a game of blackjack against a computer dealer
 
 # How to Play
 
-* Download the repository.
-* Download python3 onto your computer.
-* Open your computers terminal and navigate to the repository folder.
+* Download this repository.
+* Download python3 on your computer.
+* Open your computers terminal and "cd" to the repository folder.
 * Enter the following command into your terminal:...
 
 Run Command:
