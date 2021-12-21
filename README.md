@@ -2,12 +2,12 @@
 
 A python module that lets you play a game of blackjack against a computer dealer. The player has the ability to bet, hit & stay.
 
-# What I Learned
+# What I Learned :notebook:
 
 * Object Oriented Fundamentals {from the perspective of Python}
 * Creating Game Logic
 
-# Gameplay UI :video_game:
+# Gameplay :video_game:
 
 ![hi](https://github.com/MED-1996/Blackjack/blob/main/Blackjack_Gameplay.png)
 
