@@ -5,6 +5,7 @@ A python script that lets you play a game of blackjack against a computer dealer
 # What I Learned :notebook:
 
 * Object Oriented Fundamentals {from the perspective of Python}
+* How to use a dynamically-typed language
 * Creating Game Logic
 
 # Gameplay :video_game:
