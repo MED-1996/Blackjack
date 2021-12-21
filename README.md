@@ -7,4 +7,4 @@ A python module that lets you play a game of blackjack against a computer dealer
 * Object Oriented Fundamentals {from the perspective of Python}
 * Creating Game Logic
 
-![This is an image](/Blackjack Gameplay.png)
+![hi](../Blackjack Gameplay.png)
