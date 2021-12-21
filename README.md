@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack :spades:
 
 A python module that lets you play a game of blackjack against a computer dealer. The player has the ability to bet, hit & stay.
 
